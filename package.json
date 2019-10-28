@@ -84,7 +84,7 @@
     "pug": "^2.0.4",
     "reflect-metadata": "^0.1.13",
     "s3-proxy": "^1.2.1",
-    "sequelize": "^5.10.2"
+    "sequelize": "^5.15.1"
   },
   "nodemonConfig": {
     "watch": [
